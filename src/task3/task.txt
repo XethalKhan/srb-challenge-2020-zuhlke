@@ -1,0 +1,7 @@
+TASK
+
+the files names.txt and salary.txt contain the name and salary of every pirate on the ship. Find out the name of the boss.
+
+1: salary dataset
+
+2: names dataset

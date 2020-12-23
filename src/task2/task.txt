@@ -1,0 +1,5 @@
+TASK
+
+The provided input file crypto.txt contains the door inscription. Find and enter the keyword that was used to encrypt the text.
+
+1: crypto dataset

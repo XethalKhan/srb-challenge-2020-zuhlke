@@ -1,0 +1,5 @@
+TASK
+
+Find the longest repeating substring in
+
+1: characters dataset

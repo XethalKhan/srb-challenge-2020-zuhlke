@@ -1,0 +1,3 @@
+TASK
+
+How many gold coins must at least be in the vault of Blackbeard's ship, so that all ten guards can be bribed and you can break out?

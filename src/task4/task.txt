@@ -1,0 +1,7 @@
+TASK
+
+Find the coordinates on the captains scroll.
+
+1: scroll dataset
+
+use following format: XX.XX.XX.XN XX.XX.XX.XW
